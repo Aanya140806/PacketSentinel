@@ -1,0 +1,13 @@
+# Viva basics
+- **IDS:** Intrusion Detection System; monitors and alerts about suspicious activity.
+- **Feature:** Input measurement such as packet count or flow duration.
+- **Label:** Desired class, e.g. BENIGN or MALICIOUS.
+- **Supervised learning:** Training with examples whose correct labels are known.
+- **Random Forest:** Many decision trees vote together to make a prediction.
+- **Accuracy:** Correct predictions / all predictions.
+- **Precision:** Correct positive predictions / all predicted positives.
+- **Recall:** Detected actual positives / all actual positives.
+- **F1:** Harmonic mean of precision and recall.
+- **Confusion matrix:** Actual vs predicted class counts.
+- **Train/test split:** Keeps a portion of data aside for evaluation.
+- **Limitations:** dataset bias, class imbalance, leakage, and changes in real traffic.
