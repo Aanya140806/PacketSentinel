@@ -1,1 +1,8 @@
-streamlit>=1.36\npandas>=2.2\nnumpy>=1.26\nscikit-learn>=1.5\nmatplotlib>=3.8\nseaborn>=0.13\njoblib>=1.4\npytest>=8\n
+streamlit>=1.36
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+matplotlib>=3.8
+seaborn>=0.13
+joblib>=1.4
+pytest>=8
