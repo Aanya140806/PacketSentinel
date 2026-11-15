@@ -1,0 +1,1 @@
+streamlit>=1.36\npandas>=2.2\nnumpy>=1.26\nscikit-learn>=1.5\nmatplotlib>=3.8\nseaborn>=0.13\njoblib>=1.4\npytest>=8\n
